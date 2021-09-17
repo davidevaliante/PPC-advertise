@@ -1,5 +1,5 @@
 import React, { FunctionComponent, Fragment } from 'react'
-import Document, { Html, Head, Main, NextScript } from 'next/document'
+import { Html, Head, Main, NextScript } from 'next/document'
 
 const _document: FunctionComponent = () => {
     return (
